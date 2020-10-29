@@ -8,7 +8,7 @@ En este proyecto utilizamos las siguientes dependencias
 
 - flutter_swiper 1.1.6 (The best swiper for flutter , with multiple layouts, infinite loop. Compatible with Android & iOS. )  
 
-[flutter_swiper] (https://pub.dev/packages/flutter_swiper)
+[flutter_swiper](https://pub.dev/packages/flutter_swiper)
 
 
 
