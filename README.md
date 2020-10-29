@@ -1,10 +1,15 @@
-# peliculas
+# Peliculas - Flutter
 
-A new Flutter project.
+App para ios - androind, para ver películas que estan en el cine, consumiendo API`s
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+En este proyecto utilizamos las siguientes dependencias
+
+- flutter_swiper 1.1.6 (The best swiper for flutter , with multiple layouts, infinite loop. Compatible with Android & iOS. )  [flutter_swiper] (https://pub.dev/packages/flutter_swiper)
+
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
